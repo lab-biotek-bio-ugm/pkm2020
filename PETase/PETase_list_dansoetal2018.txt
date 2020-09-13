@@ -1,0 +1,10 @@
+Sequence no.	PDB entry no.a	Gene nameb	Organism	Reference
+1	W0TJ64	Cut190	Saccharomonospora viridis	6
+2	E9LVI0	cut1	Thermobifida fusca (Thermomonospora fusca)	7
+3	E5BBQ3	cut-2	Thermobifida fusca (Thermomonospora fusca)	8
+4	D1A9G5	Tcur_1278	Thermomonospora curvata	9
+5	E9LVH7	cut1	Thermobifida alba	10
+6	H6WX58	NA	Thermobifida halotolerans	11
+7	E9LVH9	cut2	Thermobifida celluloysilityca	12
+8	A0A0K8P6T7	ISF6_4831	Ideonella sakaiensis	13
+9	G9BY57	NA	Uncultured bacterium	14
